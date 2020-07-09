@@ -1,15 +1,15 @@
 
 <h1 align="center">
 <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="unity" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="unity" width="180">
 <br>
 <br>
-Game is a replica of a counter-strike game map in Unity
 </h1>
 <br>
 
 <p align="center">
   <img src="images/cs.jpg" />
+  Game is a replica of a counter-strike game map in Unity
 </p>
 
 ## Overview
