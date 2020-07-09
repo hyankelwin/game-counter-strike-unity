@@ -9,8 +9,8 @@
 
 <p align="center">
   <img src="images/cs.jpg" />
-  Game is a replica of a counter-strike game map in Unity
 </p>
+Game is a replica of a counter-strike game map in Unity
 
 ## Overview
 
